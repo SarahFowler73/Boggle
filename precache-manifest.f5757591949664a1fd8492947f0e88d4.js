@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d4f6a06e657240dec78f",
+    "revision": "bb5ea6b0785decf7cb7e",
     "url": "/Boggle-Solver/static/css/main.c1684db8.chunk.css"
   },
   {
-    "revision": "d4f6a06e657240dec78f",
-    "url": "/Boggle-Solver/static/js/main.d4f6a06e.chunk.js"
+    "revision": "bb5ea6b0785decf7cb7e",
+    "url": "/Boggle-Solver/static/js/main.bb5ea6b0.chunk.js"
   },
   {
     "revision": "3fad5883e2f567f240ae",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Boggle-Solver/static/js/2.188dffc5.chunk.js"
   },
   {
-    "revision": "41037a39c51f2582d353403074235047",
+    "revision": "5346527c4710ec67738a970ba67d23ba",
     "url": "/Boggle-Solver/index.html"
   }
 ];
