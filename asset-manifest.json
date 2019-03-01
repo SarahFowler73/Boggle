@@ -1,13 +1,13 @@
 {
-  "main.css": "/Boggle/static/css/main.490bb118.chunk.css",
-  "main.js": "/Boggle/static/js/main.7f7a198b.chunk.js",
-  "main.js.map": "/Boggle/static/js/main.7f7a198b.chunk.js.map",
-  "runtime~main.js": "/Boggle/static/js/runtime~main.e143e6b1.js",
-  "runtime~main.js.map": "/Boggle/static/js/runtime~main.e143e6b1.js.map",
-  "static/js/2.603fa182.chunk.js": "/Boggle/static/js/2.603fa182.chunk.js",
-  "static/js/2.603fa182.chunk.js.map": "/Boggle/static/js/2.603fa182.chunk.js.map",
-  "index.html": "/Boggle/index.html",
-  "precache-manifest.86b27f2105550c5e926b0c9a5deec2ab.js": "/Boggle/precache-manifest.86b27f2105550c5e926b0c9a5deec2ab.js",
-  "service-worker.js": "/Boggle/service-worker.js",
-  "static/css/main.490bb118.chunk.css.map": "/Boggle/static/css/main.490bb118.chunk.css.map"
+  "main.css": "/Boggle-Solver/static/css/main.c1684db8.chunk.css",
+  "main.js": "/Boggle-Solver/static/js/main.d4f6a06e.chunk.js",
+  "main.js.map": "/Boggle-Solver/static/js/main.d4f6a06e.chunk.js.map",
+  "runtime~main.js": "/Boggle-Solver/static/js/runtime~main.3fad5883.js",
+  "runtime~main.js.map": "/Boggle-Solver/static/js/runtime~main.3fad5883.js.map",
+  "static/js/2.188dffc5.chunk.js": "/Boggle-Solver/static/js/2.188dffc5.chunk.js",
+  "static/js/2.188dffc5.chunk.js.map": "/Boggle-Solver/static/js/2.188dffc5.chunk.js.map",
+  "index.html": "/Boggle-Solver/index.html",
+  "precache-manifest.20d3a195023256449b586cae4339aba6.js": "/Boggle-Solver/precache-manifest.20d3a195023256449b586cae4339aba6.js",
+  "service-worker.js": "/Boggle-Solver/service-worker.js",
+  "static/css/main.c1684db8.chunk.css.map": "/Boggle-Solver/static/css/main.c1684db8.chunk.css.map"
 }
